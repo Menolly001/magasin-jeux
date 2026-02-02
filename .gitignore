@@ -1,0 +1,17 @@
+# Fichiers de configuration sensibles
+.env
+config.php
+
+# Cache / logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE / éditeurs
+.vscode/
+.idea/
+
+# OS
+desktop.ini
